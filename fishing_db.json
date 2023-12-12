@@ -4,48 +4,7 @@
         "helyszin": "Hortobágy folyó",
         "modszer": "Pergetés",
         "fogtam": false,
-        "halfaj": [
-            {
-                "name": "Kárász",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Keszeg",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Ponty",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Amur",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Süllő",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Csuka",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Harcsa",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Balin",
-                "db": 0,
-                "kg": 0
-            }
-        ],
+        "halfaj": [],
         "perc": 70
     },
     {
@@ -55,44 +14,9 @@
         "fogtam": true,
         "halfaj": [
             {
-                "name": "Kárász",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Keszeg",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Ponty",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Amur",
-                "db": 0,
-                "kg": 0
-            },
-            {
                 "name": "Süllő",
                 "db": 1,
                 "kg": 0.6
-            },
-            {
-                "name": "Csuka",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Harcsa",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Balin",
-                "db": 0,
-                "kg": 0
             }
         ],
         "perc": 120
@@ -104,44 +28,9 @@
         "fogtam": true,
         "halfaj": [
             {
-                "name": "Kárász",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Keszeg",
-                "db": 0,
-                "kg": 0
-            },
-            {
                 "name": "Ponty",
                 "db": 3,
                 "kg": 2
-            },
-            {
-                "name": "Amur",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Süllő",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Csuka",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Harcsa",
-                "db": 0,
-                "kg": 0
-            },
-            {
-                "name": "Balin",
-                "db": 0,
-                "kg": 0
             }
         ],
         "perc": 220
