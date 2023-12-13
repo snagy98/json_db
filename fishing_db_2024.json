@@ -1011,5 +1011,13 @@
         "fogtam": false,
         "halfaj": [],
         "perc": 100
+    },
+    {
+        "datum": "2023.12.05",
+        "helyszin": "Keleti Főcsatorna",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 100
     }
 ]

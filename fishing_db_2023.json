@@ -1,0 +1,38 @@
+[
+    {
+        "datum": "2024.05.13",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 70
+    },
+    {
+        "datum": "2023.05.20",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Süllő",
+                "db": 2,
+                "kg": 0.8
+            }
+        ],
+        "perc": 130
+    },
+    {
+        "datum": "2023.06.04",
+        "helyszin": "Keleti-Főcsatorna",
+        "modszer": "Úsztatás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Keszeg",
+                "db": 3,
+                "kg": 2
+            }
+        ],
+        "perc": 220
+    }
+]
