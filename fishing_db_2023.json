@@ -1,6 +1,6 @@
 [
     {
-        "datum": "2024.05.13",
+        "datum": "2023.02.17",
         "helyszin": "Hortobágy folyó",
         "modszer": "Pergetés",
         "fogtam": false,
@@ -8,7 +8,790 @@
         "perc": 70
     },
     {
-        "datum": "2023.05.20",
+        "datum": "2023.02.22",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Süllő",
+                "db": 1,
+                "kg": 0.6
+            }
+        ],
+        "perc": 120
+    },
+    {
+        "datum": "2023.03.04",
+        "helyszin": "Nádudvar II.sz tó",
+        "modszer": "Method",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 3,
+                "kg": 2
+            }
+        ],
+        "perc": 220
+    },
+    {
+        "datum": "2023.03.22",
+        "helyszin": "Nádudvar II.sz tó",
+        "modszer": "Rakós",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Kárász",
+                "db": 6,
+                "kg": 1.8
+            },
+            {
+                "name": "Ponty",
+                "db": 4,
+                "kg": 5
+            }
+        ],
+        "perc": 300
+    },
+    {
+        "datum": "2023.03.25",
+        "helyszin": "Nagyhegyes Daru tó",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 80
+    },
+    {
+        "datum": "2023.04.01",
+        "helyszin": "Nádudvar II.sz tó",
+        "modszer": "Method",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 3,
+                "kg": 4
+            }
+        ],
+        "perc": 180
+    },
+    {
+        "datum": "2023.04.22",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Úsztatás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Keszeg",
+                "db": 10,
+                "kg": 1.5
+            }
+        ],
+        "perc": 180
+    },
+    {
+        "datum": "2023.04.23",
+        "helyszin": "Nádudvar II.sz tó",
+        "modszer": "Rakós",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 4,
+                "kg": 6
+            }
+        ],
+        "perc": 180
+    },
+    {
+        "datum": "2023.04.28",
+        "helyszin": "Nádudvar II.sz tó",
+        "modszer": "Method",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 4,
+                "kg": 8
+            }
+        ],
+        "perc": 180
+    },
+    {
+        "datum": "2023.05.03",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Süllő",
+                "db": 1,
+                "kg": 1.20
+            }
+        ],
+        "perc": 90
+    },
+    {
+        "datum": "2023.05.04",
+        "helyszin": "Nádudvar II.sz tó",
+        "modszer": "Match",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 5,
+                "kg": 9
+            },
+            {
+                "name": "Amur",
+                "db": 1,
+                "kg": 4
+            }
+        ],
+        "perc": 180
+    },
+    {
+        "datum": "2023.05.10",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 70
+    },
+    {
+        "datum": "2023.05.12",
+        "helyszin": "Pródi halastó",
+        "modszer": "Fenekezés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 5,
+                "kg": 29.8
+            },
+            {
+                "name": "Amur",
+                "db": 2,
+                "kg": 16.3
+            }
+        ],
+        "perc": 480
+    },
+    {
+        "datum": "2023.05.18",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 70
+    },
+    {
+        "datum": "2023.05.21",
+        "helyszin": "Nádudvar I.sz tó",
+        "modszer": "Hosszú előke",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 2,
+                "kg": 1
+            }
+        ],
+        "perc": 150
+    },
+    {
+        "datum": "2023.05.21",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Balin",
+                "db": 1,
+                "kg": 1
+            }
+        ],
+        "perc": 60
+    },
+    {
+        "datum": "2023.05.26",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 70
+    },
+    {
+        "datum": "2023.05.29",
+        "helyszin": "Nádudvar II.sz tó",
+        "modszer": "Rakós",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 4,
+                "kg": 8
+            }
+        ],
+        "perc": 270
+    },
+    {
+        "datum": "2023.05.31",
+        "helyszin": "Nádudvar I.sz tó",
+        "modszer": "Match",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 7,
+                "kg": 3.5
+            }
+        ],
+        "perc": 180
+    },
+    {
+        "datum": "2023.06.04",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Method",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Kárász",
+                "db": 5,
+                "kg": 1
+            },
+            {
+                "name": "Keszeg",
+                "db": 3,
+                "kg": 1
+            }
+        ],
+        "perc": 210
+    },
+    {
+        "datum": "2023.06.05",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 150
+    },
+    {
+        "datum": "2023.06.08",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Pergetés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Harcsa",
+                "db": 1,
+                "kg": 0.3
+            }
+        ],
+        "perc": 120
+    },
+    {
+        "datum": "2023.06.14",
+        "helyszin": "Nádudvar I.sz tó",
+        "modszer": "Rakós",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Kárász",
+                "db": 1,
+                "kg": 0.2
+            },
+            {
+                "name": "Ponty",
+                "db": 2,
+                "kg": 0.5
+            }
+        ],
+        "perc": 150
+    },
+    {
+        "datum": "2023.06.15",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 120
+    },
+    {
+        "datum": "2023.06.17",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 60
+    },
+    {
+        "datum": "2023.06.21",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 90
+    },
+    {
+        "datum": "2023.06.26",
+        "helyszin": "Nádudvar I.sz tó",
+        "modszer": "Rakós",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 13,
+                "kg": 12.4
+            }
+        ],
+        "perc": 270
+    },
+    {
+        "datum": "2023.06.27",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Úsztatás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Keszeg",
+                "db": 27,
+                "kg": 3
+            }
+        ],
+        "perc": 80
+    },
+    {
+        "datum": "2023.07.02",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Amur",
+                "db": 1,
+                "kg": 8
+            }
+        ],
+        "perc": 180
+    },
+    {
+        "datum": "2023.07.03",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Amur",
+                "db": 1,
+                "kg": 8.4
+            }
+        ],
+        "perc": 240
+    },
+    {
+        "datum": "2023.07.06",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Halszeletezés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Süllő",
+                "db": 4,
+                "kg": 1.2
+            },
+            {
+                "name": "Harcsa",
+                "db": 2,
+                "kg": 1
+            }
+        ],
+        "perc": 180
+    },
+    {
+        "datum": "2023.07.09",
+        "helyszin": "Nádudvar II.sz tó",
+        "modszer": "Rakós",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Harcsa",
+                "db": 1,
+                "kg": 4
+            }
+        ],
+        "perc": 150
+    },
+    {
+        "datum": "2023.07.12",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Úsztatás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Keszeg",
+                "db": 12,
+                "kg": 1
+            }
+        ],
+        "perc": 130
+    },
+    {
+        "datum": "2023.07.14",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 80
+    },
+    {
+        "datum": "2023.07.14",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 200
+    },
+    {
+        "datum": "2023.07.15",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 240
+    },
+    {
+        "datum": "2023.07.15",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Harcsázás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Harcsa",
+                "db": 3,
+                "kg": 1
+            }
+        ],
+        "perc": 240
+    },
+    {
+        "datum": "2023.07.16",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Halszeletezés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Süllő",
+                "db": 3,
+                "kg": 1.2
+            }
+        ],
+        "perc": 70
+    },
+    {
+        "datum": "2023.07.16",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Úsztatás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Keszeg",
+                "db": 37,
+                "kg": 2.9
+            }
+        ],
+        "perc": 70
+    },
+    {
+        "datum": "2023.07.17",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 240
+    },
+    {
+        "datum": "2023.07.19",
+        "helyszin": "Nádudvar I.sz tó",
+        "modszer": "Method",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 5,
+                "kg": 6.7
+            }
+        ],
+        "perc": 200
+    },
+    {
+        "datum": "2023.07.20",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 300
+    },
+    {
+        "datum": "2023.07.21",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 1,
+                "kg": 2.6
+            }
+        ],
+        "perc": 120
+    },
+    {
+        "datum": "2023.07.25",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Süllő",
+                "db": 1,
+                "kg": 0.2
+            }
+        ],
+        "perc": 90
+    },
+    {
+        "datum": "2023.07.25",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 180
+    },
+    {
+        "datum": "2023.07.29",
+        "helyszin": "Nagyfoki-holtág",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 180
+    },
+    {
+        "datum": "2023.07.30",
+        "helyszin": "Nagyfoki-holtág",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 180
+    },
+    {
+        "datum": "2023.07.31",
+        "helyszin": "Nagyfoki-holtág",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 180
+    },
+    {
+        "datum": "2023.08.01",
+        "helyszin": "Nagyfoki-holtág",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 180
+    },
+    {
+        "datum": "2023.08.01",
+        "helyszin": "Nagyfoki-holtág",
+        "modszer": "Pergetés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Harcsa",
+                "db": 1,
+                "kg": 0.3
+            }
+        ],
+        "perc": 60
+    },
+    {
+        "datum": "2023.08.02",
+        "helyszin": "Nagyfoki-holtág",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 60
+    },
+    {
+        "datum": "2023.08.03",
+        "helyszin": "Nagyfoki-holtág",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 60
+    },
+    {
+        "datum": "2023.08.04",
+        "helyszin": "Nagyfoki-holtág",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 60
+    },
+    {
+        "datum": "2023.08.07",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 40
+    },
+    {
+        "datum": "2023.08.08",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Süllő",
+                "db": 1,
+                "kg": 0.3
+            }
+        ],
+        "perc": 70
+    },
+    {
+        "datum": "2023.08.10",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Harcsázás",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 180
+    },
+    {
+        "datum": "2023.08.11",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 300
+    },
+    {
+        "datum": "2023.08.12",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 1,
+                "kg": 1.5
+            }
+        ],
+        "perc": 210
+    },
+    {
+        "datum": "2023.08.14",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 180
+    },
+    {
+        "datum": "2023.08.15",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Harcsázás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Harcsa",
+                "db": 1,
+                "kg": 1.8
+            }
+        ],
+        "perc": 210
+    },
+    {
+        "datum": "2023.08.17",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Harcsázás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Harcsa",
+                "db": 1,
+                "kg": 0.8
+            }
+        ],
+        "perc": 210
+    },
+    {
+        "datum": "2023.08.18",
+        "helyszin": "Nádudvar II.sz tó",
+        "modszer": "Match",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 1,
+                "kg": 3.5
+            }
+        ],
+        "perc": 120
+    },
+    {
+        "datum": "2023.08.21",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 180
+    },
+    {
+        "datum": "2023.08.22",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 2,
+                "kg": 9.3
+            }
+        ],
+        "perc": 540
+    },
+    {
+        "datum": "2023.08.25",
+        "helyszin": "Nádudvar II.sz tó",
+        "modszer": "Rakós",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 8,
+                "kg": 16.3
+            },
+            {
+                "name": "Amur",
+                "db": 1,
+                "kg": 4.9
+            }
+        ],
+        "perc": 150
+    },
+    {
+        "datum": "2023.08.28",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 50
+    },
+    {
+        "datum": "2023.08.31",
         "helyszin": "Hortobágy folyó",
         "modszer": "Pergetés",
         "fogtam": true,
@@ -16,23 +799,225 @@
             {
                 "name": "Süllő",
                 "db": 2,
-                "kg": 0.8
+                "kg": 0.4
             }
         ],
-        "perc": 130
+        "perc": 180
     },
     {
-        "datum": "2023.06.04",
-        "helyszin": "Keleti-Főcsatorna",
+        "datum": "2023.09.02",
+        "helyszin": "Tisza",
         "modszer": "Úsztatás",
         "fogtam": true,
         "halfaj": [
             {
                 "name": "Keszeg",
-                "db": 3,
-                "kg": 2
+                "db": 29,
+                "kg": 4.5
             }
         ],
-        "perc": 220
+        "perc": 360
+    },
+    {
+        "datum": "2023.09.03",
+        "helyszin": "Nagykunsági főcsatorna",
+        "modszer": "Úsztatás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Keszeg",
+                "db": 28,
+                "kg": 4
+            }
+        ],
+        "perc": 360
+    },
+    {
+        "datum": "2023.09.11",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 1,
+                "kg": 2.6
+            }
+        ],
+        "perc": 120
+    },
+    {
+        "datum": "2023.09.12",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 180
+    },
+    {
+        "datum": "2023.09.18",
+        "helyszin": "Nádudvar I.sz tó",
+        "modszer": "Rakós",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Ponty",
+                "db": 3,
+                "kg": 0.6
+            }
+        ],
+        "perc": 120
+    },
+    {
+        "datum": "2023.09.20",
+        "helyszin": "Nádudvar I.sz tó",
+        "modszer": "Rakós",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 90
+    },
+    {
+        "datum": "2023.09.22",
+        "helyszin": "Nádudvar I.sz tó",
+        "modszer": "Rakós",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Kárász",
+                "db": 13,
+                "kg": 4.2
+            },
+            {
+                "name": "Ponty",
+                "db": 16,
+                "kg": 12.8
+            }
+        ],
+        "perc": 400
+    },
+    {
+        "datum": "2023.09.23",
+        "helyszin": "Nádudvar I.sz tó",
+        "modszer": "Rakós",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Kárász",
+                "db": 1,
+                "kg": 0.3
+            },
+            {
+                "name": "Ponty",
+                "db": 2,
+                "kg": 2.7
+            }
+        ],
+        "perc": 400
+    },
+    {
+        "datum": "2023.09.30",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 420
+    },
+    {
+        "datum": "2023.10.07",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Úsztatás",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 120
+    },
+    {
+        "datum": "2023.10.16",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Hosszú előke",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Kárász",
+                "db": 2,
+                "kg": 0.7
+            },
+            {
+                "name": "Keszeg",
+                "db": 3,
+                "kg": 0.8
+            }
+        ],
+        "perc": 240
+    },
+    {
+        "datum": "2023.10.21",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Hosszú előke",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Kárász",
+                "db": 3,
+                "kg": 0.8
+            }
+        ],
+        "perc": 180
+    },
+    {
+        "datum": "2023.10.22",
+        "helyszin": "Kösély csatorna",
+        "modszer": "Halszeletezés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Süllő",
+                "db": 2,
+                "kg": 0.5
+            }
+        ],
+        "perc": 240
+    },
+    {
+        "datum": "2023.10.25",
+        "helyszin": "Hortobágy folyó",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 50
+    },
+    {
+        "datum": "2023.11.04",
+        "helyszin": "Nádudvar I.sz tó",
+        "modszer": "Rakós",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Kárász",
+                "db": 12,
+                "kg": 3.6
+            },
+            {
+                "name": "Ponty",
+                "db": 14,
+                "kg": 7.2
+            }
+        ],
+        "perc": 300
+    },
+    {
+        "datum": "2023.12.03",
+        "helyszin": "K-VIII. Csatorna",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 100
+    },
+    {
+        "datum": "2023.12.05",
+        "helyszin": "Keleti Főcsatorna",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 100
     }
 ]
