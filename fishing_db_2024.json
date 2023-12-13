@@ -20,19 +20,5 @@
             }
         ],
         "perc": 130
-    },
-    {
-        "datum": "2023.06.04",
-        "helyszin": "Keleti-Főcsatorna",
-        "modszer": "Úsztatás",
-        "fogtam": true,
-        "halfaj": [
-            {
-                "name": "Keszeg",
-                "db": 3,
-                "kg": 2
-            }
-        ],
-        "perc": 220
     }
 ]
