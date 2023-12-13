@@ -3,7 +3,6 @@
         "datum": "2023.02.17",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 70
@@ -12,7 +11,6 @@
         "datum": "2023.02.22",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -27,7 +25,6 @@
         "datum": "2023.03.04",
         "helyszin": "Nádudvar II.sz tó",
         "modszer1": "Method",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -42,7 +39,6 @@
         "datum": "2023.03.22",
         "helyszin": "Nádudvar II.sz tó",
         "modszer1": "Rakós",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -62,7 +58,6 @@
         "datum": "2023.03.25",
         "helyszin": "Nagyhegyes Daru tó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 80
@@ -71,7 +66,6 @@
         "datum": "2023.04.01",
         "helyszin": "Nádudvar II.sz tó",
         "modszer1": "Method",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -86,7 +80,6 @@
         "datum": "2023.04.22",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Úsztatás",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -101,7 +94,6 @@
         "datum": "2023.04.23",
         "helyszin": "Nádudvar II.sz tó",
         "modszer1": "Rakós",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -116,7 +108,6 @@
         "datum": "2023.04.28",
         "helyszin": "Nádudvar II.sz tó",
         "modszer1": "Method",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -131,7 +122,6 @@
         "datum": "2023.05.03",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -146,7 +136,6 @@
         "datum": "2023.05.04",
         "helyszin": "Nádudvar II.sz tó",
         "modszer1": "Match",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -166,7 +155,6 @@
         "datum": "2023.05.10",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 70
@@ -175,7 +163,6 @@
         "datum": "2023.05.12",
         "helyszin": "Pródi halastó",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -195,7 +182,6 @@
         "datum": "2023.05.18",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 70
@@ -204,7 +190,6 @@
         "datum": "2023.05.21",
         "helyszin": "Nádudvar I.sz tó",
         "modszer1": "Hosszú előke",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -219,7 +204,6 @@
         "datum": "2023.05.21",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -234,7 +218,6 @@
         "datum": "2023.05.26",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 70
@@ -243,7 +226,6 @@
         "datum": "2023.05.29",
         "helyszin": "Nádudvar II.sz tó",
         "modszer1": "Rakós",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -258,7 +240,6 @@
         "datum": "2023.05.31",
         "helyszin": "Nádudvar I.sz tó",
         "modszer1": "Match",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -273,7 +254,6 @@
         "datum": "2023.06.04",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Method",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -293,7 +273,6 @@
         "datum": "2023.06.05",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 150
@@ -302,7 +281,6 @@
         "datum": "2023.06.08",
         "helyszin": "Kösély csatorna",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -317,7 +295,6 @@
         "datum": "2023.06.14",
         "helyszin": "Nádudvar I.sz tó",
         "modszer1": "Rakós",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -337,7 +314,6 @@
         "datum": "2023.06.15",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 120
@@ -346,7 +322,6 @@
         "datum": "2023.06.17",
         "helyszin": "Kösély csatorna",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 60
@@ -355,7 +330,6 @@
         "datum": "2023.06.21",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 90
@@ -364,7 +338,6 @@
         "datum": "2023.06.26",
         "helyszin": "Nádudvar I.sz tó",
         "modszer1": "Rakós",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -379,7 +352,6 @@
         "datum": "2023.06.27",
         "helyszin": "Kösély csatorna",
         "modszer1": "Úsztatás",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -394,7 +366,6 @@
         "datum": "2023.07.02",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -409,7 +380,6 @@
         "datum": "2023.07.03",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -424,7 +394,6 @@
         "datum": "2023.07.06",
         "helyszin": "Kösély csatorna",
         "modszer1": "Halszeletezés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -444,7 +413,6 @@
         "datum": "2023.07.09",
         "helyszin": "Nádudvar II.sz tó",
         "modszer1": "Rakós",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -459,7 +427,6 @@
         "datum": "2023.07.12",
         "helyszin": "Kösély csatorna",
         "modszer1": "Úsztatás",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -474,7 +441,6 @@
         "datum": "2023.07.14",
         "helyszin": "Kösély csatorna",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 80
@@ -483,7 +449,6 @@
         "datum": "2023.07.14",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 200
@@ -492,7 +457,6 @@
         "datum": "2023.07.15",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 240
@@ -501,7 +465,6 @@
         "datum": "2023.07.15",
         "helyszin": "Kösély csatorna",
         "modszer1": "Harcsázás",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -516,7 +479,6 @@
         "datum": "2023.07.16",
         "helyszin": "Kösély csatorna",
         "modszer1": "Halszeletezés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -531,7 +493,6 @@
         "datum": "2023.07.16",
         "helyszin": "Kösély csatorna",
         "modszer1": "Úsztatás",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -546,7 +507,6 @@
         "datum": "2023.07.17",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 240
@@ -555,7 +515,6 @@
         "datum": "2023.07.19",
         "helyszin": "Nádudvar I.sz tó",
         "modszer1": "Method",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -570,7 +529,6 @@
         "datum": "2023.07.20",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 300
@@ -579,7 +537,6 @@
         "datum": "2023.07.21",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -594,7 +551,6 @@
         "datum": "2023.07.25",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -609,7 +565,6 @@
         "datum": "2023.07.25",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 180
@@ -618,7 +573,6 @@
         "datum": "2023.07.29",
         "helyszin": "Nagyfoki-holtág",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 180
@@ -627,7 +581,6 @@
         "datum": "2023.07.30",
         "helyszin": "Nagyfoki-holtág",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 180
@@ -636,7 +589,6 @@
         "datum": "2023.07.31",
         "helyszin": "Nagyfoki-holtág",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 180
@@ -645,7 +597,6 @@
         "datum": "2023.08.01",
         "helyszin": "Nagyfoki-holtág",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 180
@@ -654,7 +605,6 @@
         "datum": "2023.08.01",
         "helyszin": "Nagyfoki-holtág",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -669,7 +619,6 @@
         "datum": "2023.08.02",
         "helyszin": "Nagyfoki-holtág",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 60
@@ -678,7 +627,6 @@
         "datum": "2023.08.03",
         "helyszin": "Nagyfoki-holtág",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 60
@@ -687,7 +635,6 @@
         "datum": "2023.08.04",
         "helyszin": "Nagyfoki-holtág",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 60
@@ -696,7 +643,6 @@
         "datum": "2023.08.07",
         "helyszin": "Kösély csatorna",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 40
@@ -705,7 +651,6 @@
         "datum": "2023.08.08",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -720,7 +665,6 @@
         "datum": "2023.08.10",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Harcsázás",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 180
@@ -729,7 +673,6 @@
         "datum": "2023.08.11",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 300
@@ -738,7 +681,6 @@
         "datum": "2023.08.12",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -753,7 +695,6 @@
         "datum": "2023.08.14",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 180
@@ -762,7 +703,6 @@
         "datum": "2023.08.15",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Harcsázás",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -777,7 +717,6 @@
         "datum": "2023.08.17",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Harcsázás",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -792,7 +731,6 @@
         "datum": "2023.08.18",
         "helyszin": "Nádudvar II.sz tó",
         "modszer1": "Match",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -807,7 +745,6 @@
         "datum": "2023.08.21",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 180
@@ -816,7 +753,6 @@
         "datum": "2023.08.22",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -831,7 +767,6 @@
         "datum": "2023.08.25",
         "helyszin": "Nádudvar II.sz tó",
         "modszer1": "Rakós",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -851,7 +786,6 @@
         "datum": "2023.08.28",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 50
@@ -860,7 +794,6 @@
         "datum": "2023.08.31",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -875,7 +808,6 @@
         "datum": "2023.09.02",
         "helyszin": "Tisza",
         "modszer1": "Úsztatás",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -890,7 +822,6 @@
         "datum": "2023.09.03",
         "helyszin": "Nagykunsági főcsatorna",
         "modszer1": "Úsztatás",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -905,7 +836,6 @@
         "datum": "2023.09.11",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -920,7 +850,6 @@
         "datum": "2023.09.12",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 180
@@ -929,7 +858,6 @@
         "datum": "2023.09.18",
         "helyszin": "Nádudvar I.sz tó",
         "modszer1": "Rakós",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -944,7 +872,6 @@
         "datum": "2023.09.20",
         "helyszin": "Nádudvar I.sz tó",
         "modszer1": "Rakós",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 90
@@ -953,7 +880,6 @@
         "datum": "2023.09.22",
         "helyszin": "Nádudvar I.sz tó",
         "modszer1": "Rakós",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -973,7 +899,6 @@
         "datum": "2023.09.23",
         "helyszin": "Nádudvar I.sz tó",
         "modszer1": "Rakós",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -993,7 +918,6 @@
         "datum": "2023.09.30",
         "helyszin": "Kösély csatorna",
         "modszer1": "Fenekezés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 420
@@ -1002,7 +926,6 @@
         "datum": "2023.10.07",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Úsztatás",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 120
@@ -1011,7 +934,6 @@
         "datum": "2023.10.16",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Hosszú előke",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -1031,7 +953,6 @@
         "datum": "2023.10.21",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Hosszú előke",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -1046,7 +967,6 @@
         "datum": "2023.10.22",
         "helyszin": "Kösély csatorna",
         "modszer1": "Halszeletezés",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -1061,7 +981,6 @@
         "datum": "2023.10.25",
         "helyszin": "Hortobágy folyó",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 50
@@ -1070,7 +989,6 @@
         "datum": "2023.11.04",
         "helyszin": "Nádudvar I.sz tó",
         "modszer1": "Rakós",
-        "modszer2": "",
         "fogtam": true,
         "halfaj": [
             {
@@ -1090,7 +1008,6 @@
         "datum": "2023.12.03",
         "helyszin": "K-VIII. Csatorna",
         "modszer1": "Pergetés",
-        "modszer2": "",
         "fogtam": false,
         "halfaj": [],
         "perc": 100
