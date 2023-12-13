@@ -28,6 +28,39 @@
         "perc": 170
     },
     {
+        "datum": "2024.02.14",
+        "helyszin": "Kadarcsi csatorna",
+        "modszer": "Úsztatás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Keszeg",
+                "db": 24,
+                "kg": 3
+            }
+        ],
+        "perc": 150
+    },
+    {
+        "datum": "2024.02.20",
+        "helyszin": "K-VIII. csatorna",
+        "modszer": "Úsztatás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Keszeg",
+                "db": 11,
+                "kg": 1.8
+            },
+            {
+                "name": "Kárász",
+                "db": 3,
+                "kg": 1
+            }
+        ],
+        "perc": 70
+    },
+    {
         "datum": "2024.05.13",
         "helyszin": "Hortobágy folyó",
         "modszer": "Pergetés",
