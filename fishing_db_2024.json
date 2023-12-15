@@ -81,5 +81,19 @@
             }
         ],
         "perc": 130
+    },
+    {
+        "datum": "2024.06.10",
+        "helyszin": "Keleti főcsatorna",
+        "modszer": "Pergetés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "balin",
+                "db": 1,
+                "kg": 1
+            }
+        ],
+        "perc": 130
     }
 ]
