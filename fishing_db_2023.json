@@ -1109,5 +1109,20 @@
         ],
         "perc": 50,
         "komment": "1 vesztett méretes csuka"
+    },
+    {
+        "datum": "2023.12.31",
+        "helyszin": "K-VIII. Csatorna",
+        "modszer": "Pergetés",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Csuka",
+                "db": 2,
+                "kg": 0.6
+            }
+        ],
+        "perc": 150,
+        "komment": "3 vesztett csuka"
     }
 ]
