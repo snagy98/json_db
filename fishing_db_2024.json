@@ -1,106 +1,11 @@
 [
     {
-        "datum": "2024.01.10",
-        "helyszin": "Hortobágy folyó",
-        "modszer": "Pergetés",
-        "fogtam": true,
-        "halfaj": [
-            {
-                "name": "Csuka",
-                "db": 1,
-                "kg": 1.8
-            }
-        ],
-        "perc": 70,
-        "komment":""
-    },
-    {
-        "datum": "2024.01.23",
-        "helyszin": "Hortobágy folyó",
-        "modszer": "Pergetés",
-        "fogtam": false,
-        "halfaj": [
-            {
-                "name": "Csuka",
-                "db": 2,
-                "kg": 2.9
-            }
-        ],
-        "perc": 170,
-        "komment":""
-    },
-    {
-        "datum": "2024.02.14",
-        "helyszin": "Kadarcsi csatorna",
-        "modszer": "Úsztatás",
-        "fogtam": true,
-        "halfaj": [
-            {
-                "name": "Keszeg",
-                "db": 24,
-                "kg": 3
-            }
-        ],
-        "perc": 150,
-        "komment":""
-    },
-    {
-        "datum": "2024.02.20",
-        "helyszin": "K-VIII. csatorna",
-        "modszer": "Úsztatás",
-        "fogtam": true,
-        "halfaj": [
-            {
-                "name": "Keszeg",
-                "db": 11,
-                "kg": 1.8
-            },
-            {
-                "name": "Kárász",
-                "db": 3,
-                "kg": 1
-            }
-        ],
-        "perc": 70,
-        "komment":""
-    },
-    {
-        "datum": "2024.05.13",
+        "datum": "2024.02.17",
         "helyszin": "Hortobágy folyó",
         "modszer": "Pergetés",
         "fogtam": false,
         "halfaj": [],
-        "perc": 70,
-        "komment":""
-    },
-    {
-        "datum": "2024.05.20",
-        "helyszin": "Hortobágy folyó",
-        "modszer": "Pergetés",
-        "fogtam": true,
-        "halfaj": [
-            {
-                "name": "Süllő",
-                "db": 2,
-                "kg": 0.8
-            }
-        ],
-        "perc": 130,
-        "komment":""
-    },
-    {
-        "datum": "2024.06.10",
-        "helyszin": "Keleti főcsatorna",
-        "modszer": "Pergetés",
-        "fogtam": true,
-        "halfaj": [
-            {
-                "name": "Balin",
-                "db": 1,
-                "kg": 1
-            }
-        ],
-        "perc": 130,
-        "komment":""
+        "perc": 140,
+        "komment":"1 vesztett hal."
     }
 ]
