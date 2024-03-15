@@ -6,6 +6,26 @@
         "fogtam": false,
         "halfaj": [],
         "perc": 140,
-        "komment":"1 vesztett hal."
+        "komment": "1 vesztett hal."
+    },
+    {
+        "datum": "2024.03.15",
+        "helyszin": "Kösely csatorna",
+        "modszer": "Úsztatás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Keszeg",
+                "db": 21,
+                "kg": 2.2
+            },
+            {
+                "name": "Kárász",
+                "db": 1,
+                "kg": 0.3
+            }
+        ],
+        "perc": 300,
+        "komment": "5m spicc"
     }
 ]
