@@ -27,5 +27,53 @@
         ],
         "perc": 300,
         "komment": "5m spicc"
+    },
+    {
+        "datum": "2024.03.20",
+        "helyszin": "Kösely csatorna",
+        "modszer": "Kiskosaras",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Keszeg",
+                "db": 2,
+                "kg": 1.9
+            }
+        ],
+        "perc": 180,
+        "komment": "6m gumizott spicc"
+    },
+    {
+        "datum": "2024.03.22",
+        "helyszin": "Kösely csatorna",
+        "modszer": "Kiskosaras",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 180,
+        "komment": "6m gumizott spicc"
+    },
+    {
+        "datum": "2024.03.29",
+        "helyszin": "Kösely csatorna",
+        "modszer": "Úsztatás",
+        "fogtam": true,
+        "halfaj": [
+            {
+                "name": "Keszeg",
+                "db": 20,
+                "kg": 1.4
+            }
+        ],
+        "perc": 70,
+        "komment": "5m spicc"
+    },
+    {
+        "datum": "2024.03.30",
+        "helyszin": "Kösely csatorna",
+        "modszer": "Fenekezés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 180,
+        "komment": "1 bojlis bot"
     }
 ]
