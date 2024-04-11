@@ -75,5 +75,32 @@
         "halfaj": [],
         "perc": 180,
         "komment": "1 bojlis bot"
+    },
+    {
+        "datum": "2024.04.03",
+        "helyszin": "K-VIII. Csatorna",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 60,
+        "komment": ""
+    },
+    {
+        "datum": "2024.04.03",
+        "helyszin": "K-VIII. Csatorna",
+        "modszer": "Pergetés",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 60,
+        "komment": ""
+    },
+    {
+        "datum": "2024.04.06",
+        "helyszin": "Nádudvar II.sz tó",
+        "modszer": "Rakós",
+        "fogtam": false,
+        "halfaj": [],
+        "perc": 300,
+        "komment": "9 úszós nevező, összesen 4 fogott ponty"
     }
 ]
